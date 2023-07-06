@@ -1,8 +1,6 @@
 # Base91 Encoder / Decoder for Kotlin Multiplatform
 
-![Build](https://github.com/hbmartin/base91-kotlin-multiplatform/workflows/Build/badge.svg)
-![Linting](https://github.com/hbmartin/base91-kotlin-multiplatform/workflows/Linting/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/18248-kotlin-bulk-add-name-params.svg)](https://plugins.jetbrains.com/plugin/18248-kotlin-bulk-add-name-params)
+[![Lint and Test](https://github.com/hbmartin/base91-kotlin-multiplatform/actions/workflows/lint_and_test.yml/badge.svg)](https://github.com/hbmartin/base91-kotlin-multiplatform/actions/workflows/lint_and_test.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/hbmartin/base91-kotlin-multiplatform/badge)](https://www.codefactor.io/repository/github/hbmartin/base91-kotlin-multiplatform)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=hbmartin_base91-kotlin-multiplatform&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=hbmartin_base91-kotlin-multiplatform)
 
