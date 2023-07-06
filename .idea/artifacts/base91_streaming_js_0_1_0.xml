@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="base91-streaming-js-0.1.0">
+    <output-path>$PROJECT_DIR$/base91-streaming/build/libs</output-path>
+    <root id="archive" name="base91-streaming-js-0.1.0.jar">
+      <element id="module-output" name="base91-kotlin-multiplatform.base91-streaming.jsMain" />
+    </root>
+  </artifact>
+</component>
